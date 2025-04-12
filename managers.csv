@@ -1,0 +1,8 @@
+id,name,manager,salary
+1,John,Doe,60000
+2,Jane,Smith,
+3,Bob,Johnson,45000
+4,Alice,
+5,Charlie,,50000
+6,David,,55000
+7,Eve,Brown,
